@@ -122,7 +122,7 @@ Después de aplicar esta modificación, el procedimiento `sp_insert_customer` pu
 
 La siguiente evidencia muestra el error obtenido al intentar registrar el cliente con el valor `irregular`, debido a que excedía la longitud definida inicialmente para `type_client`.
 
-![Error al insertar un cliente con un tipo de cliente superior a 7 caracteres](../images/error_type_client.png)
+![Error al insertar un cliente con un tipo de cliente superior a 7 caracteres](../imgs/error_type_client.png)
 
 ## Corrección mediante Roll Forward
 
