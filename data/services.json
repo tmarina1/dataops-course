@@ -1,0 +1,282 @@
+[
+  {
+    "service_id": 1,
+    "service_name": "Oil Change",
+    "description": "Oil Change for light to moderate maintenance needs.",
+    "standard_price": "62.00",
+    "estimated_hours": "1.0"
+  },
+  {
+    "service_id": 2,
+    "service_name": "Brake Inspection",
+    "description": "Brake Inspection for light to moderate maintenance needs.",
+    "standard_price": "74.00",
+    "estimated_hours": "1.5"
+  },
+  {
+    "service_id": 3,
+    "service_name": "Tire Rotation",
+    "description": "Tire Rotation for light to moderate maintenance needs.",
+    "standard_price": "86.00",
+    "estimated_hours": "2.0"
+  },
+  {
+    "service_id": 4,
+    "service_name": "Battery Replacement",
+    "description": "Battery Replacement for light to moderate maintenance needs.",
+    "standard_price": "98.00",
+    "estimated_hours": "2.5"
+  },
+  {
+    "service_id": 5,
+    "service_name": "Engine Tune-Up",
+    "description": "Engine Tune-Up for light to moderate maintenance needs.",
+    "standard_price": "110.00",
+    "estimated_hours": "0.5"
+  },
+  {
+    "service_id": 6,
+    "service_name": "Wheel Alignment",
+    "description": "Wheel Alignment for light to moderate maintenance needs.",
+    "standard_price": "122.00",
+    "estimated_hours": "1.0"
+  },
+  {
+    "service_id": 7,
+    "service_name": "AC Service",
+    "description": "AC Service for light to moderate maintenance needs.",
+    "standard_price": "134.00",
+    "estimated_hours": "1.5"
+  },
+  {
+    "service_id": 8,
+    "service_name": "Transmission Check",
+    "description": "Transmission Check for light to moderate maintenance needs.",
+    "standard_price": "146.00",
+    "estimated_hours": "2.0"
+  },
+  {
+    "service_id": 9,
+    "service_name": "Steering Repair",
+    "description": "Steering Repair for light to moderate maintenance needs.",
+    "standard_price": "158.00",
+    "estimated_hours": "2.5"
+  },
+  {
+    "service_id": 10,
+    "service_name": "Coolant Flush",
+    "description": "Coolant Flush for light to moderate maintenance needs.",
+    "standard_price": "50.00",
+    "estimated_hours": "0.5"
+  },
+  {
+    "service_id": 11,
+    "service_name": "Suspension Check",
+    "description": "Suspension Check for light to moderate maintenance needs.",
+    "standard_price": "62.00",
+    "estimated_hours": "1.0"
+  },
+  {
+    "service_id": 12,
+    "service_name": "Exhaust Repair",
+    "description": "Exhaust Repair for light to moderate maintenance needs.",
+    "standard_price": "74.00",
+    "estimated_hours": "1.5"
+  },
+  {
+    "service_id": 13,
+    "service_name": "Spark Plug Replacement",
+    "description": "Spark Plug Replacement for light to moderate maintenance needs.",
+    "standard_price": "86.00",
+    "estimated_hours": "2.0"
+  },
+  {
+    "service_id": 14,
+    "service_name": "Filter Replacement",
+    "description": "Filter Replacement for light to moderate maintenance needs.",
+    "standard_price": "98.00",
+    "estimated_hours": "2.5"
+  },
+  {
+    "service_id": 15,
+    "service_name": "Brake Pad Replacement",
+    "description": "Brake Pad Replacement for light to moderate maintenance needs.",
+    "standard_price": "110.00",
+    "estimated_hours": "0.5"
+  },
+  {
+    "service_id": 16,
+    "service_name": "Transmission Fluid Change",
+    "description": "Transmission Fluid Change for light to moderate maintenance needs.",
+    "standard_price": "122.00",
+    "estimated_hours": "1.0"
+  },
+  {
+    "service_id": 17,
+    "service_name": "Timing Belt Service",
+    "description": "Timing Belt Service for light to moderate maintenance needs.",
+    "standard_price": "134.00",
+    "estimated_hours": "1.5"
+  },
+  {
+    "service_id": 18,
+    "service_name": "Fuel System Cleaning",
+    "description": "Fuel System Cleaning for light to moderate maintenance needs.",
+    "standard_price": "146.00",
+    "estimated_hours": "2.0"
+  },
+  {
+    "service_id": 19,
+    "service_name": "Headlight Replacement",
+    "description": "Headlight Replacement for light to moderate maintenance needs.",
+    "standard_price": "158.00",
+    "estimated_hours": "2.5"
+  },
+  {
+    "service_id": 20,
+    "service_name": "Windshield Wiper Service",
+    "description": "Windshield Wiper Service for light to moderate maintenance needs.",
+    "standard_price": "50.00",
+    "estimated_hours": "0.5"
+  },
+  {
+    "service_id": 21,
+    "service_name": "Oil Change",
+    "description": "Oil Change for light to moderate maintenance needs.",
+    "standard_price": "62.00",
+    "estimated_hours": "1.0"
+  },
+  {
+    "service_id": 22,
+    "service_name": "Brake Inspection",
+    "description": "Brake Inspection for light to moderate maintenance needs.",
+    "standard_price": "74.00",
+    "estimated_hours": "1.5"
+  },
+  {
+    "service_id": 23,
+    "service_name": "Tire Rotation",
+    "description": "Tire Rotation for light to moderate maintenance needs.",
+    "standard_price": "86.00",
+    "estimated_hours": "2.0"
+  },
+  {
+    "service_id": 24,
+    "service_name": "Battery Replacement",
+    "description": "Battery Replacement for light to moderate maintenance needs.",
+    "standard_price": "98.00",
+    "estimated_hours": "2.5"
+  },
+  {
+    "service_id": 25,
+    "service_name": "Engine Tune-Up",
+    "description": "Engine Tune-Up for light to moderate maintenance needs.",
+    "standard_price": "110.00",
+    "estimated_hours": "0.5"
+  },
+  {
+    "service_id": 26,
+    "service_name": "Wheel Alignment",
+    "description": "Wheel Alignment for light to moderate maintenance needs.",
+    "standard_price": "122.00",
+    "estimated_hours": "1.0"
+  },
+  {
+    "service_id": 27,
+    "service_name": "AC Service",
+    "description": "AC Service for light to moderate maintenance needs.",
+    "standard_price": "134.00",
+    "estimated_hours": "1.5"
+  },
+  {
+    "service_id": 28,
+    "service_name": "Transmission Check",
+    "description": "Transmission Check for light to moderate maintenance needs.",
+    "standard_price": "146.00",
+    "estimated_hours": "2.0"
+  },
+  {
+    "service_id": 29,
+    "service_name": "Steering Repair",
+    "description": "Steering Repair for light to moderate maintenance needs.",
+    "standard_price": "158.00",
+    "estimated_hours": "2.5"
+  },
+  {
+    "service_id": 30,
+    "service_name": "Coolant Flush",
+    "description": "Coolant Flush for light to moderate maintenance needs.",
+    "standard_price": "50.00",
+    "estimated_hours": "0.5"
+  },
+  {
+    "service_id": 31,
+    "service_name": "Suspension Check",
+    "description": "Suspension Check for light to moderate maintenance needs.",
+    "standard_price": "62.00",
+    "estimated_hours": "1.0"
+  },
+  {
+    "service_id": 32,
+    "service_name": "Exhaust Repair",
+    "description": "Exhaust Repair for light to moderate maintenance needs.",
+    "standard_price": "74.00",
+    "estimated_hours": "1.5"
+  },
+  {
+    "service_id": 33,
+    "service_name": "Spark Plug Replacement",
+    "description": "Spark Plug Replacement for light to moderate maintenance needs.",
+    "standard_price": "86.00",
+    "estimated_hours": "2.0"
+  },
+  {
+    "service_id": 34,
+    "service_name": "Filter Replacement",
+    "description": "Filter Replacement for light to moderate maintenance needs.",
+    "standard_price": "98.00",
+    "estimated_hours": "2.5"
+  },
+  {
+    "service_id": 35,
+    "service_name": "Brake Pad Replacement",
+    "description": "Brake Pad Replacement for light to moderate maintenance needs.",
+    "standard_price": "110.00",
+    "estimated_hours": "0.5"
+  },
+  {
+    "service_id": 36,
+    "service_name": "Transmission Fluid Change",
+    "description": "Transmission Fluid Change for light to moderate maintenance needs.",
+    "standard_price": "122.00",
+    "estimated_hours": "1.0"
+  },
+  {
+    "service_id": 37,
+    "service_name": "Timing Belt Service",
+    "description": "Timing Belt Service for light to moderate maintenance needs.",
+    "standard_price": "134.00",
+    "estimated_hours": "1.5"
+  },
+  {
+    "service_id": 38,
+    "service_name": "Fuel System Cleaning",
+    "description": "Fuel System Cleaning for light to moderate maintenance needs.",
+    "standard_price": "146.00",
+    "estimated_hours": "2.0"
+  },
+  {
+    "service_id": 39,
+    "service_name": "Headlight Replacement",
+    "description": "Headlight Replacement for light to moderate maintenance needs.",
+    "standard_price": "158.00",
+    "estimated_hours": "2.5"
+  },
+  {
+    "service_id": 40,
+    "service_name": "Windshield Wiper Service",
+    "description": "Windshield Wiper Service for light to moderate maintenance needs.",
+    "standard_price": "50.00",
+    "estimated_hours": "0.5"
+  }
+]

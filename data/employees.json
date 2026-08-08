@@ -1,0 +1,722 @@
+[
+  {
+    "employee_id": 1,
+    "first_name": "Liam",
+    "last_name": "Lopez",
+    "role": "Service Advisor",
+    "phone": "+1-555-2001",
+    "hire_date": "2015-01-15",
+    "hourly_rate": "31.50"
+  },
+  {
+    "employee_id": 2,
+    "first_name": "Elijah",
+    "last_name": "Martin",
+    "role": "Manager",
+    "phone": "+1-555-2002",
+    "hire_date": "2015-01-29",
+    "hourly_rate": "33.00"
+  },
+  {
+    "employee_id": 3,
+    "first_name": "Logan",
+    "last_name": "Garcia",
+    "role": "Technician",
+    "phone": "+1-555-2003",
+    "hire_date": "2015-02-12",
+    "hourly_rate": "34.50"
+  },
+  {
+    "employee_id": 4,
+    "first_name": "Ethan",
+    "last_name": "Wilson",
+    "role": "Inspector",
+    "phone": "+1-555-2004",
+    "hire_date": "2015-02-26",
+    "hourly_rate": "36.00"
+  },
+  {
+    "employee_id": 5,
+    "first_name": "Harper",
+    "last_name": "Lee",
+    "role": "Mechanic",
+    "phone": "+1-555-2005",
+    "hire_date": "2015-03-12",
+    "hourly_rate": "37.50"
+  },
+  {
+    "employee_id": 6,
+    "first_name": "Avery",
+    "last_name": "Smith",
+    "role": "Service Advisor",
+    "phone": "+1-555-2006",
+    "hire_date": "2015-03-26",
+    "hourly_rate": "39.00"
+  },
+  {
+    "employee_id": 7,
+    "first_name": "Ava",
+    "last_name": "Anderson",
+    "role": "Manager",
+    "phone": "+1-555-2007",
+    "hire_date": "2015-04-09",
+    "hourly_rate": "40.50"
+  },
+  {
+    "employee_id": 8,
+    "first_name": "Emma",
+    "last_name": "Perez",
+    "role": "Technician",
+    "phone": "+1-555-2008",
+    "hire_date": "2015-04-23",
+    "hourly_rate": "42.00"
+  },
+  {
+    "employee_id": 9,
+    "first_name": "Sophia",
+    "last_name": "Johnson",
+    "role": "Inspector",
+    "phone": "+1-555-2009",
+    "hire_date": "2015-05-07",
+    "hourly_rate": "43.50"
+  },
+  {
+    "employee_id": 10,
+    "first_name": "Lucas",
+    "last_name": "Thomas",
+    "role": "Mechanic",
+    "phone": "+1-555-2010",
+    "hire_date": "2015-05-21",
+    "hourly_rate": "45.00"
+  },
+  {
+    "employee_id": 11,
+    "first_name": "Isabella",
+    "last_name": "Thompson",
+    "role": "Service Advisor",
+    "phone": "+1-555-2011",
+    "hire_date": "2015-06-04",
+    "hourly_rate": "46.50"
+  },
+  {
+    "employee_id": 12,
+    "first_name": "Evelyn",
+    "last_name": "Martinez",
+    "role": "Manager",
+    "phone": "+1-555-2012",
+    "hire_date": "2015-06-18",
+    "hourly_rate": "48.00"
+  },
+  {
+    "employee_id": 13,
+    "first_name": "Aiden",
+    "last_name": "Taylor",
+    "role": "Technician",
+    "phone": "+1-555-2013",
+    "hire_date": "2015-07-02",
+    "hourly_rate": "49.50"
+  },
+  {
+    "employee_id": 14,
+    "first_name": "Noah",
+    "last_name": "White",
+    "role": "Inspector",
+    "phone": "+1-555-2014",
+    "hire_date": "2015-07-16",
+    "hourly_rate": "51.00"
+  },
+  {
+    "employee_id": 15,
+    "first_name": "Olivia",
+    "last_name": "Brown",
+    "role": "Mechanic",
+    "phone": "+1-555-2015",
+    "hire_date": "2015-07-30",
+    "hourly_rate": "52.50"
+  },
+  {
+    "employee_id": 16,
+    "first_name": "Mia",
+    "last_name": "Moore",
+    "role": "Service Advisor",
+    "phone": "+1-555-2016",
+    "hire_date": "2015-08-13",
+    "hourly_rate": "54.00"
+  },
+  {
+    "employee_id": 17,
+    "first_name": "Amelia",
+    "last_name": "Harris",
+    "role": "Manager",
+    "phone": "+1-555-2017",
+    "hire_date": "2015-08-27",
+    "hourly_rate": "55.50"
+  },
+  {
+    "employee_id": 18,
+    "first_name": "Mason",
+    "last_name": "Davis",
+    "role": "Technician",
+    "phone": "+1-555-2018",
+    "hire_date": "2015-09-10",
+    "hourly_rate": "57.00"
+  },
+  {
+    "employee_id": 19,
+    "first_name": "Jackson",
+    "last_name": "Jackson",
+    "role": "Inspector",
+    "phone": "+1-555-2019",
+    "hire_date": "2015-09-24",
+    "hourly_rate": "58.50"
+  },
+  {
+    "employee_id": 20,
+    "first_name": "Scarlett",
+    "last_name": "Sanchez",
+    "role": "Mechanic",
+    "phone": "+1-555-2020",
+    "hire_date": "2015-10-08",
+    "hourly_rate": "30.00"
+  },
+  {
+    "employee_id": 21,
+    "first_name": "Liam",
+    "last_name": "Lopez",
+    "role": "Service Advisor",
+    "phone": "+1-555-2021",
+    "hire_date": "2015-10-22",
+    "hourly_rate": "31.50"
+  },
+  {
+    "employee_id": 22,
+    "first_name": "Elijah",
+    "last_name": "Martin",
+    "role": "Manager",
+    "phone": "+1-555-2022",
+    "hire_date": "2015-11-05",
+    "hourly_rate": "33.00"
+  },
+  {
+    "employee_id": 23,
+    "first_name": "Logan",
+    "last_name": "Garcia",
+    "role": "Technician",
+    "phone": "+1-555-2023",
+    "hire_date": "2015-11-19",
+    "hourly_rate": "34.50"
+  },
+  {
+    "employee_id": 24,
+    "first_name": "Ethan",
+    "last_name": "Wilson",
+    "role": "Inspector",
+    "phone": "+1-555-2024",
+    "hire_date": "2015-12-03",
+    "hourly_rate": "36.00"
+  },
+  {
+    "employee_id": 25,
+    "first_name": "Harper",
+    "last_name": "Lee",
+    "role": "Mechanic",
+    "phone": "+1-555-2025",
+    "hire_date": "2015-12-17",
+    "hourly_rate": "37.50"
+  },
+  {
+    "employee_id": 26,
+    "first_name": "Avery",
+    "last_name": "Smith",
+    "role": "Service Advisor",
+    "phone": "+1-555-2026",
+    "hire_date": "2015-12-31",
+    "hourly_rate": "39.00"
+  },
+  {
+    "employee_id": 27,
+    "first_name": "Ava",
+    "last_name": "Anderson",
+    "role": "Manager",
+    "phone": "+1-555-2027",
+    "hire_date": "2016-01-14",
+    "hourly_rate": "40.50"
+  },
+  {
+    "employee_id": 28,
+    "first_name": "Emma",
+    "last_name": "Perez",
+    "role": "Technician",
+    "phone": "+1-555-2028",
+    "hire_date": "2016-01-28",
+    "hourly_rate": "42.00"
+  },
+  {
+    "employee_id": 29,
+    "first_name": "Sophia",
+    "last_name": "Johnson",
+    "role": "Inspector",
+    "phone": "+1-555-2029",
+    "hire_date": "2016-02-11",
+    "hourly_rate": "43.50"
+  },
+  {
+    "employee_id": 30,
+    "first_name": "Lucas",
+    "last_name": "Thomas",
+    "role": "Mechanic",
+    "phone": "+1-555-2030",
+    "hire_date": "2016-02-25",
+    "hourly_rate": "45.00"
+  },
+  {
+    "employee_id": 31,
+    "first_name": "Isabella",
+    "last_name": "Thompson",
+    "role": "Service Advisor",
+    "phone": "+1-555-2031",
+    "hire_date": "2016-03-10",
+    "hourly_rate": "46.50"
+  },
+  {
+    "employee_id": 32,
+    "first_name": "Evelyn",
+    "last_name": "Martinez",
+    "role": "Manager",
+    "phone": "+1-555-2032",
+    "hire_date": "2016-03-24",
+    "hourly_rate": "48.00"
+  },
+  {
+    "employee_id": 33,
+    "first_name": "Aiden",
+    "last_name": "Taylor",
+    "role": "Technician",
+    "phone": "+1-555-2033",
+    "hire_date": "2016-04-07",
+    "hourly_rate": "49.50"
+  },
+  {
+    "employee_id": 34,
+    "first_name": "Noah",
+    "last_name": "White",
+    "role": "Inspector",
+    "phone": "+1-555-2034",
+    "hire_date": "2016-04-21",
+    "hourly_rate": "51.00"
+  },
+  {
+    "employee_id": 35,
+    "first_name": "Olivia",
+    "last_name": "Brown",
+    "role": "Mechanic",
+    "phone": "+1-555-2035",
+    "hire_date": "2016-05-05",
+    "hourly_rate": "52.50"
+  },
+  {
+    "employee_id": 36,
+    "first_name": "Mia",
+    "last_name": "Moore",
+    "role": "Service Advisor",
+    "phone": "+1-555-2036",
+    "hire_date": "2016-05-19",
+    "hourly_rate": "54.00"
+  },
+  {
+    "employee_id": 37,
+    "first_name": "Amelia",
+    "last_name": "Harris",
+    "role": "Manager",
+    "phone": "+1-555-2037",
+    "hire_date": "2016-06-02",
+    "hourly_rate": "55.50"
+  },
+  {
+    "employee_id": 38,
+    "first_name": "Mason",
+    "last_name": "Davis",
+    "role": "Technician",
+    "phone": "+1-555-2038",
+    "hire_date": "2016-06-16",
+    "hourly_rate": "57.00"
+  },
+  {
+    "employee_id": 39,
+    "first_name": "Jackson",
+    "last_name": "Jackson",
+    "role": "Inspector",
+    "phone": "+1-555-2039",
+    "hire_date": "2016-06-30",
+    "hourly_rate": "58.50"
+  },
+  {
+    "employee_id": 40,
+    "first_name": "Scarlett",
+    "last_name": "Sanchez",
+    "role": "Mechanic",
+    "phone": "+1-555-2040",
+    "hire_date": "2016-07-14",
+    "hourly_rate": "30.00"
+  },
+  {
+    "employee_id": 41,
+    "first_name": "Liam",
+    "last_name": "Lopez",
+    "role": "Service Advisor",
+    "phone": "+1-555-2041",
+    "hire_date": "2016-07-28",
+    "hourly_rate": "31.50"
+  },
+  {
+    "employee_id": 42,
+    "first_name": "Elijah",
+    "last_name": "Martin",
+    "role": "Manager",
+    "phone": "+1-555-2042",
+    "hire_date": "2016-08-11",
+    "hourly_rate": "33.00"
+  },
+  {
+    "employee_id": 43,
+    "first_name": "Logan",
+    "last_name": "Garcia",
+    "role": "Technician",
+    "phone": "+1-555-2043",
+    "hire_date": "2016-08-25",
+    "hourly_rate": "34.50"
+  },
+  {
+    "employee_id": 44,
+    "first_name": "Ethan",
+    "last_name": "Wilson",
+    "role": "Inspector",
+    "phone": "+1-555-2044",
+    "hire_date": "2016-09-08",
+    "hourly_rate": "36.00"
+  },
+  {
+    "employee_id": 45,
+    "first_name": "Harper",
+    "last_name": "Lee",
+    "role": "Mechanic",
+    "phone": "+1-555-2045",
+    "hire_date": "2016-09-22",
+    "hourly_rate": "37.50"
+  },
+  {
+    "employee_id": 46,
+    "first_name": "Avery",
+    "last_name": "Smith",
+    "role": "Service Advisor",
+    "phone": "+1-555-2046",
+    "hire_date": "2016-10-06",
+    "hourly_rate": "39.00"
+  },
+  {
+    "employee_id": 47,
+    "first_name": "Ava",
+    "last_name": "Anderson",
+    "role": "Manager",
+    "phone": "+1-555-2047",
+    "hire_date": "2016-10-20",
+    "hourly_rate": "40.50"
+  },
+  {
+    "employee_id": 48,
+    "first_name": "Emma",
+    "last_name": "Perez",
+    "role": "Technician",
+    "phone": "+1-555-2048",
+    "hire_date": "2016-11-03",
+    "hourly_rate": "42.00"
+  },
+  {
+    "employee_id": 49,
+    "first_name": "Sophia",
+    "last_name": "Johnson",
+    "role": "Inspector",
+    "phone": "+1-555-2049",
+    "hire_date": "2016-11-17",
+    "hourly_rate": "43.50"
+  },
+  {
+    "employee_id": 50,
+    "first_name": "Lucas",
+    "last_name": "Thomas",
+    "role": "Mechanic",
+    "phone": "+1-555-2050",
+    "hire_date": "2016-12-01",
+    "hourly_rate": "45.00"
+  },
+  {
+    "employee_id": 51,
+    "first_name": "Isabella",
+    "last_name": "Thompson",
+    "role": "Service Advisor",
+    "phone": "+1-555-2051",
+    "hire_date": "2016-12-15",
+    "hourly_rate": "46.50"
+  },
+  {
+    "employee_id": 52,
+    "first_name": "Evelyn",
+    "last_name": "Martinez",
+    "role": "Manager",
+    "phone": "+1-555-2052",
+    "hire_date": "2016-12-29",
+    "hourly_rate": "48.00"
+  },
+  {
+    "employee_id": 53,
+    "first_name": "Aiden",
+    "last_name": "Taylor",
+    "role": "Technician",
+    "phone": "+1-555-2053",
+    "hire_date": "2017-01-12",
+    "hourly_rate": "49.50"
+  },
+  {
+    "employee_id": 54,
+    "first_name": "Noah",
+    "last_name": "White",
+    "role": "Inspector",
+    "phone": "+1-555-2054",
+    "hire_date": "2017-01-26",
+    "hourly_rate": "51.00"
+  },
+  {
+    "employee_id": 55,
+    "first_name": "Olivia",
+    "last_name": "Brown",
+    "role": "Mechanic",
+    "phone": "+1-555-2055",
+    "hire_date": "2017-02-09",
+    "hourly_rate": "52.50"
+  },
+  {
+    "employee_id": 56,
+    "first_name": "Mia",
+    "last_name": "Moore",
+    "role": "Service Advisor",
+    "phone": "+1-555-2056",
+    "hire_date": "2017-02-23",
+    "hourly_rate": "54.00"
+  },
+  {
+    "employee_id": 57,
+    "first_name": "Amelia",
+    "last_name": "Harris",
+    "role": "Manager",
+    "phone": "+1-555-2057",
+    "hire_date": "2017-03-09",
+    "hourly_rate": "55.50"
+  },
+  {
+    "employee_id": 58,
+    "first_name": "Mason",
+    "last_name": "Davis",
+    "role": "Technician",
+    "phone": "+1-555-2058",
+    "hire_date": "2017-03-23",
+    "hourly_rate": "57.00"
+  },
+  {
+    "employee_id": 59,
+    "first_name": "Jackson",
+    "last_name": "Jackson",
+    "role": "Inspector",
+    "phone": "+1-555-2059",
+    "hire_date": "2017-04-06",
+    "hourly_rate": "58.50"
+  },
+  {
+    "employee_id": 60,
+    "first_name": "Scarlett",
+    "last_name": "Sanchez",
+    "role": "Mechanic",
+    "phone": "+1-555-2060",
+    "hire_date": "2017-04-20",
+    "hourly_rate": "30.00"
+  },
+  {
+    "employee_id": 61,
+    "first_name": "Liam",
+    "last_name": "Lopez",
+    "role": "Service Advisor",
+    "phone": "+1-555-2061",
+    "hire_date": "2017-05-04",
+    "hourly_rate": "31.50"
+  },
+  {
+    "employee_id": 62,
+    "first_name": "Elijah",
+    "last_name": "Martin",
+    "role": "Manager",
+    "phone": "+1-555-2062",
+    "hire_date": "2017-05-18",
+    "hourly_rate": "33.00"
+  },
+  {
+    "employee_id": 63,
+    "first_name": "Logan",
+    "last_name": "Garcia",
+    "role": "Technician",
+    "phone": "+1-555-2063",
+    "hire_date": "2017-06-01",
+    "hourly_rate": "34.50"
+  },
+  {
+    "employee_id": 64,
+    "first_name": "Ethan",
+    "last_name": "Wilson",
+    "role": "Inspector",
+    "phone": "+1-555-2064",
+    "hire_date": "2017-06-15",
+    "hourly_rate": "36.00"
+  },
+  {
+    "employee_id": 65,
+    "first_name": "Harper",
+    "last_name": "Lee",
+    "role": "Mechanic",
+    "phone": "+1-555-2065",
+    "hire_date": "2017-06-29",
+    "hourly_rate": "37.50"
+  },
+  {
+    "employee_id": 66,
+    "first_name": "Avery",
+    "last_name": "Smith",
+    "role": "Service Advisor",
+    "phone": "+1-555-2066",
+    "hire_date": "2017-07-13",
+    "hourly_rate": "39.00"
+  },
+  {
+    "employee_id": 67,
+    "first_name": "Ava",
+    "last_name": "Anderson",
+    "role": "Manager",
+    "phone": "+1-555-2067",
+    "hire_date": "2017-07-27",
+    "hourly_rate": "40.50"
+  },
+  {
+    "employee_id": 68,
+    "first_name": "Emma",
+    "last_name": "Perez",
+    "role": "Technician",
+    "phone": "+1-555-2068",
+    "hire_date": "2017-08-10",
+    "hourly_rate": "42.00"
+  },
+  {
+    "employee_id": 69,
+    "first_name": "Sophia",
+    "last_name": "Johnson",
+    "role": "Inspector",
+    "phone": "+1-555-2069",
+    "hire_date": "2017-08-24",
+    "hourly_rate": "43.50"
+  },
+  {
+    "employee_id": 70,
+    "first_name": "Lucas",
+    "last_name": "Thomas",
+    "role": "Mechanic",
+    "phone": "+1-555-2070",
+    "hire_date": "2017-09-07",
+    "hourly_rate": "45.00"
+  },
+  {
+    "employee_id": 71,
+    "first_name": "Isabella",
+    "last_name": "Thompson",
+    "role": "Service Advisor",
+    "phone": "+1-555-2071",
+    "hire_date": "2017-09-21",
+    "hourly_rate": "46.50"
+  },
+  {
+    "employee_id": 72,
+    "first_name": "Evelyn",
+    "last_name": "Martinez",
+    "role": "Manager",
+    "phone": "+1-555-2072",
+    "hire_date": "2017-10-05",
+    "hourly_rate": "48.00"
+  },
+  {
+    "employee_id": 73,
+    "first_name": "Aiden",
+    "last_name": "Taylor",
+    "role": "Technician",
+    "phone": "+1-555-2073",
+    "hire_date": "2017-10-19",
+    "hourly_rate": "49.50"
+  },
+  {
+    "employee_id": 74,
+    "first_name": "Noah",
+    "last_name": "White",
+    "role": "Inspector",
+    "phone": "+1-555-2074",
+    "hire_date": "2017-11-02",
+    "hourly_rate": "51.00"
+  },
+  {
+    "employee_id": 75,
+    "first_name": "Olivia",
+    "last_name": "Brown",
+    "role": "Mechanic",
+    "phone": "+1-555-2075",
+    "hire_date": "2017-11-16",
+    "hourly_rate": "52.50"
+  },
+  {
+    "employee_id": 76,
+    "first_name": "Mia",
+    "last_name": "Moore",
+    "role": "Service Advisor",
+    "phone": "+1-555-2076",
+    "hire_date": "2017-11-30",
+    "hourly_rate": "54.00"
+  },
+  {
+    "employee_id": 77,
+    "first_name": "Amelia",
+    "last_name": "Harris",
+    "role": "Manager",
+    "phone": "+1-555-2077",
+    "hire_date": "2017-12-14",
+    "hourly_rate": "55.50"
+  },
+  {
+    "employee_id": 78,
+    "first_name": "Mason",
+    "last_name": "Davis",
+    "role": "Technician",
+    "phone": "+1-555-2078",
+    "hire_date": "2017-12-28",
+    "hourly_rate": "57.00"
+  },
+  {
+    "employee_id": 79,
+    "first_name": "Jackson",
+    "last_name": "Jackson",
+    "role": "Inspector",
+    "phone": "+1-555-2079",
+    "hire_date": "2018-01-11",
+    "hourly_rate": "58.50"
+  },
+  {
+    "employee_id": 80,
+    "first_name": "Scarlett",
+    "last_name": "Sanchez",
+    "role": "Mechanic",
+    "phone": "+1-555-2080",
+    "hire_date": "2018-01-25",
+    "hourly_rate": "30.00"
+  }
+]
