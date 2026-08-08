@@ -83,6 +83,7 @@ erDiagram
         DECIMAL unit_price
         DECIMAL line_total
     }
+```
 
 # Evolución y corrección del modelo mediante Roll Forward
 
