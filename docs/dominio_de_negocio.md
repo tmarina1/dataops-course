@@ -6,6 +6,7 @@ El proceso principal se centra en las órdenes de trabajo, mediante las cuales s
 
 # Diagrama de dominio
 
+```mermaid
 erDiagram
     CUSTOMERS ||--o{ VEHICLES : owns
     VEHICLES ||--o{ WORK_ORDERS : has
