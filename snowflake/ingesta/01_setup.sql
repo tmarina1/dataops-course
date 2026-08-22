@@ -1,0 +1,32 @@
+USE WAREHOUSE WH_DATAOPS;
+USE DATABASE DATAOPS_COURSE;
+
+CREATE SCHEMA IF NOT EXISTS PROVIDERS;
+USE SCHEMA PROVIDERS;
+
+CREATE OR REPLACE FILE FORMAT ff_providers_json
+    TYPE = JSON
+    STRIP_OUTER_ARRAY = TRUE;
+
+CREATE OR REPLACE STAGE stg_providers_s3
+    URL = 's3://dataops-course-tjs/'
+    FILE_FORMAT = ff_providers_json;
+
+LIST @stg_providers_s3;
+
+SELECT $1FROM @stg_providers_s3;
+
+
+CREATE TABLE IF NOT EXISTS RAW_LEADS (
+    raw_data       VARIANT
+);
+
+COPY INTO RAW_LEADS (raw_data)
+FROM (
+    SELECT $1 FROM @stg_providers_s3
+)
+FILE_FORMAT = (FORMAT_NAME = ff_providers_json);
+
+SELECT * FROM RAW_LEADS;
+
+
