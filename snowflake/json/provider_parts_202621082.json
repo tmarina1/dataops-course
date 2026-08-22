@@ -1,0 +1,38 @@
+[
+  {
+    "provider_id": "PRV-005",
+    "provider_name": "CoolMotion Parts",
+    "part_id": "CLG-5001",
+    "name_part": "Aluminum Radiator",
+    "category_part": "Cooling System",
+    "cost_part": 164.75,
+    "inventory": "limited",
+    "total_quantity": 3,
+    "minimum_stock": 2,
+    "vehicle_compatibility": ["Chevrolet Silverado", "GMC Sierra"],
+    "warranty_months": 24,
+    "lead_time_days": 6,
+    "providers_contacts": [
+      {"contact_name": "Liam Turner", "contact_role": "Account Executive", "email": "liam.turner@coolmotion.example", "phone": "+1-555-0201"},
+      {"contact_name": "Sofia Grant", "contact_role": "Order Specialist", "email": "sofia.grant@coolmotion.example", "phone": "+1-555-0202"}
+    ]
+  },
+  {
+    "provider_id": "PRV-005",
+    "provider_name": "CoolMotion Parts",
+    "part_id": "CLG-5002",
+    "name_part": "Thermostat and Gasket Set",
+    "category_part": "Cooling System",
+    "cost_part": 27.9,
+    "inventory": "available",
+    "total_quantity": 21,
+    "minimum_stock": 7,
+    "vehicle_compatibility": ["Hyundai Tucson", "Nissan Rogue"],
+    "warranty_months": 12,
+    "lead_time_days": 2,
+    "providers_contacts": [
+      {"contact_name": "Liam Turner", "contact_role": "Account Executive", "email": "liam.turner@coolmotion.example", "phone": "+1-555-0201"},
+      {"contact_name": "Sofia Grant", "contact_role": "Order Specialist", "email": "sofia.grant@coolmotion.example", "phone": "+1-555-0202"}
+    ]
+  }
+]

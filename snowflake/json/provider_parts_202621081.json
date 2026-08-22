@@ -1,0 +1,38 @@
+[
+  {
+    "provider_id": "PRV-001",
+    "provider_name": "Apex Brake Supply",
+    "part_id": "BRK-1001",
+    "name_part": "Ceramic Front Brake Pads",
+    "category_part": "Braking System",
+    "cost_part": 38.75,
+    "inventory": "available",
+    "total_quantity": 24,
+    "minimum_stock": 8,
+    "vehicle_compatibility": ["Toyota Corolla", "Honda Civic"],
+    "warranty_months": 24,
+    "lead_time_days": 2,
+    "providers_contacts": [
+      {"contact_name": "Maya Brooks", "contact_role": "Sales Manager", "email": "maya.brooks@apexbrake.example", "phone": "+1-555-0101"},
+      {"contact_name": "Ethan Cole", "contact_role": "Logistics Coordinator", "email": "ethan.cole@apexbrake.example", "phone": "+1-555-0102"}
+    ]
+  },
+  {
+    "provider_id": "PRV-001",
+    "provider_name": "Apex Brake Supply",
+    "part_id": "BRK-1002",
+    "name_part": "Rear Brake Rotor",
+    "category_part": "Braking System",
+    "cost_part": 64.5,
+    "inventory": "limited",
+    "total_quantity": 6,
+    "minimum_stock": 4,
+    "vehicle_compatibility": ["Ford Focus", "Mazda 3"],
+    "warranty_months": 18,
+    "lead_time_days": 4,
+    "providers_contacts": [
+      {"contact_name": "Maya Brooks", "contact_role": "Sales Manager", "email": "maya.brooks@apexbrake.example", "phone": "+1-555-0101"},
+      {"contact_name": "Ethan Cole", "contact_role": "Logistics Coordinator", "email": "ethan.cole@apexbrake.example", "phone": "+1-555-0102"}
+    ]
+  }
+]

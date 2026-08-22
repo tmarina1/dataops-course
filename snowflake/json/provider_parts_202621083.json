@@ -1,0 +1,38 @@
+[
+  {
+    "provider_id": "PRV-003",
+    "provider_name": "VoltDrive Auto Electric",
+    "part_id": "ELE-3001",
+    "name_part": "12V Maintenance-Free Battery",
+    "category_part": "Electrical System",
+    "cost_part": 129.99,
+    "inventory": "available",
+    "total_quantity": 14,
+    "minimum_stock": 5,
+    "vehicle_compatibility": ["Volkswagen Jetta", "Toyota RAV4"],
+    "warranty_months": 36,
+    "lead_time_days": 3,
+    "providers_contacts": [
+      {"contact_name": "Noah Bennett", "contact_role": "Technical Sales Lead", "email": "noah.bennett@voltdrive.example", "phone": "+1-555-0301"},
+      {"contact_name": "Ava Mitchell", "contact_role": "Warranty Specialist", "email": "ava.mitchell@voltdrive.example", "phone": "+1-555-0302"}
+    ]
+  },
+  {
+    "provider_id": "PRV-003",
+    "provider_name": "VoltDrive Auto Electric",
+    "part_id": "ELE-3002",
+    "name_part": "High-Output Alternator",
+    "category_part": "Electrical System",
+    "cost_part": 218.4,
+    "inventory": "backorder",
+    "total_quantity": 0,
+    "minimum_stock": 2,
+    "vehicle_compatibility": ["Ford Ranger", "Jeep Compass"],
+    "warranty_months": 24,
+    "lead_time_days": 10,
+    "providers_contacts": [
+      {"contact_name": "Noah Bennett", "contact_role": "Technical Sales Lead", "email": "noah.bennett@voltdrive.example", "phone": "+1-555-0301"},
+      {"contact_name": "Ava Mitchell", "contact_role": "Warranty Specialist", "email": "ava.mitchell@voltdrive.example", "phone": "+1-555-0302"}
+    ]
+  }
+]

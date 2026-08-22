@@ -1,0 +1,38 @@
+[
+  {
+    "provider_id": "PRV-002",
+    "provider_name": "Metro Engine Components",
+    "part_id": "ENG-2001",
+    "name_part": "Synthetic Oil Filter",
+    "category_part": "Engine Maintenance",
+    "cost_part": 11.2,
+    "inventory": "available",
+    "total_quantity": 48,
+    "minimum_stock": 15,
+    "vehicle_compatibility": ["Nissan Sentra", "Hyundai Elantra"],
+    "warranty_months": 12,
+    "lead_time_days": 1,
+    "providers_contacts": [
+      {"contact_name": "Oliver Hayes", "contact_role": "Parts Consultant", "email": "oliver.hayes@metroengine.example", "phone": "+1-555-0401"},
+      {"contact_name": "Emma Reed", "contact_role": "Dispatch Coordinator", "email": "emma.reed@metroengine.example", "phone": "+1-555-0402"}
+    ]
+  },
+  {
+    "provider_id": "PRV-002",
+    "provider_name": "Metro Engine Components",
+    "part_id": "ENG-2002",
+    "name_part": "Iridium Spark Plug",
+    "category_part": "Ignition System",
+    "cost_part": 9.85,
+    "inventory": "available",
+    "total_quantity": 72,
+    "minimum_stock": 20,
+    "vehicle_compatibility": ["Chevrolet Cruze", "Kia Forte"],
+    "warranty_months": 12,
+    "lead_time_days": 1,
+    "providers_contacts": [
+      {"contact_name": "Oliver Hayes", "contact_role": "Parts Consultant", "email": "oliver.hayes@metroengine.example", "phone": "+1-555-0401"},
+      {"contact_name": "Emma Reed", "contact_role": "Dispatch Coordinator", "email": "emma.reed@metroengine.example", "phone": "+1-555-0402"}
+    ]
+  }
+]
