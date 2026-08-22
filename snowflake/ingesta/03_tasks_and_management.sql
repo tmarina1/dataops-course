@@ -10,9 +10,9 @@ CREATE OR REPLACE TASK TASK_INGEST_S3
     WAREHOUSE = WH_DATAOPS
     SCHEDULE = 'USING CRON 0 * * * * America/Bogota'
 AS
-    COPY INTO RAW_PROVIDERS (raw_data, _stg_file_name, _stg_loaded_at)
+    COPY INTO RAW_PROVIDERS (raw_data)
     FROM (
-        SELECT $1, METADATA$FILENAME, CURRENT_TIMESTAMP()
+        SELECT $1
         FROM @stg_providers_s3
     )
     FILE_FORMAT = (FORMAT_NAME = ff_providers_json);
