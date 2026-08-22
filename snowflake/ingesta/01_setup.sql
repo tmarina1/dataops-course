@@ -17,16 +17,16 @@ LIST @stg_providers_s3;
 SELECT $1FROM @stg_providers_s3;
 
 
-CREATE TABLE IF NOT EXISTS RAW_LEADS (
+CREATE TABLE IF NOT EXISTS RAW_PROVIDERS (
     raw_data       VARIANT
 );
 
-COPY INTO RAW_LEADS (raw_data)
+COPY INTO RAW_PROVIDERS (raw_data)
 FROM (
     SELECT $1 FROM @stg_providers_s3
 )
 FILE_FORMAT = (FORMAT_NAME = ff_providers_json);
 
-SELECT * FROM RAW_LEADS;
+SELECT * FROM RAW_PROVIDERS;
 
 
