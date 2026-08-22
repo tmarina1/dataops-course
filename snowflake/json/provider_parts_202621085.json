@@ -1,0 +1,38 @@
+[
+  {
+    "provider_id": "PRV-004",
+    "provider_name": "RoadPro Suspension",
+    "part_id": "SUS-4001",
+    "name_part": "Front Shock Absorber",
+    "category_part": "Suspension",
+    "cost_part": 76.3,
+    "inventory": "available",
+    "total_quantity": 10,
+    "minimum_stock": 4,
+    "vehicle_compatibility": ["Honda CR-V", "Subaru Forester"],
+    "warranty_months": 24,
+    "lead_time_days": 5,
+    "providers_contacts": [
+      {"contact_name": "Lucas Morgan", "contact_role": "Regional Sales Manager", "email": "lucas.morgan@roadpro.example", "phone": "+1-555-0501"},
+      {"contact_name": "Chloe Parker", "contact_role": "Customer Support Lead", "email": "chloe.parker@roadpro.example", "phone": "+1-555-0502"}
+    ]
+  },
+  {
+    "provider_id": "PRV-004",
+    "provider_name": "RoadPro Suspension",
+    "part_id": "SUS-4002",
+    "name_part": "Stabilizer Bar Link Kit",
+    "category_part": "Suspension",
+    "cost_part": 42.6,
+    "inventory": "available",
+    "total_quantity": 18,
+    "minimum_stock": 6,
+    "vehicle_compatibility": ["Mazda CX-5", "Kia Sportage"],
+    "warranty_months": 18,
+    "lead_time_days": 3,
+    "providers_contacts": [
+      {"contact_name": "Lucas Morgan", "contact_role": "Regional Sales Manager", "email": "lucas.morgan@roadpro.example", "phone": "+1-555-0501"},
+      {"contact_name": "Chloe Parker", "contact_role": "Customer Support Lead", "email": "chloe.parker@roadpro.example", "phone": "+1-555-0502"}
+    ]
+  }
+]
