@@ -8,7 +8,7 @@ CREATE ROLE IF NOT EXISTS ROLE_DATA_ENGINEER
 CREATE ROLE IF NOT EXISTS ROLE_DATA_ANALYST
     COMMENT = 'Analiza proveedores, necesita contexto parcial, no el contacto completo';
 CREATE ROLE IF NOT EXISTS ROLE_BUSINESS_MANAGER
-    COMMENT = 'Consume reportes agregados; nunca necesita ver un teléfono real';
+    COMMENT = 'Contacta proveedores, necesita el contacto completo, no el resto del contexto';
 
 GRANT USAGE ON WAREHOUSE WH_DATAOPS TO ROLE ROLE_DATA_ENGINEER;
 GRANT USAGE ON WAREHOUSE WH_DATAOPS TO ROLE ROLE_DATA_ANALYST;
@@ -34,7 +34,7 @@ SELECT contact_name, phone FROM STG_PROVIDERS_FLATTENED ORDER BY contact_name;
 
 CREATE OR REPLACE MASKING POLICY mask_phone AS (val STRING) RETURNS STRING ->
     CASE
-        WHEN CURRENT_ROLE() = 'ROLE_DATA_ENGINEER' THEN val
+        WHEN CURRENT_ROLE() = 'ROLE_BUSINESS_MANAGER' THEN val
         WHEN CURRENT_ROLE() = 'ROLE_DATA_ANALYST'  THEN CONCAT(LEFT(val, 6), '-****')
         ELSE '***-***-****'
     END;
