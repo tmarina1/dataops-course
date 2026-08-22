@@ -15,7 +15,7 @@ AS
         SELECT $1, METADATA$FILENAME, CURRENT_TIMESTAMP()
         FROM @stg_providers_s3
     )
-    FILE_FORMAT = (FORMAT_NAME = ff_providers_json)
+    FILE_FORMAT = (FORMAT_NAME = ff_providers_json);
 
 
 CREATE OR REPLACE TASK TASK_FLATTEN_PROVIDERS
