@@ -24,7 +24,7 @@ CREATE OR REPLACE TASK TASK_FLATTEN_PROVIDERS
 AS
     INSERT OVERWRITE INTO STG_PROVIDERS_FLATTENED (
         provider_id, provider_name, part_id, name_part, category_part, cost_part,
-        inventory, total_quantity, minimun_stock, warranty_months, lead_time_days,
+        inventory, total_quantity, minimum_stock, warranty_months, lead_time_days,
         contact_name, contact_role, email, phone
     )
     SELECT
@@ -36,7 +36,7 @@ AS
         raw_data:cost_part::FLOAT,
         c.value:inventory::STRING,
         c.value:total_quantity::INTEGER,
-        c.value:minimun_stock::INTEGER,
+        c.value:minimum_stock::INTEGER,
         c.value:warranty_months::INTEGER,
         c.value:lead_time_days::INTEGER,
         c.value:contact_name::STRING,
