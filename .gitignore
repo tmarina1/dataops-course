@@ -1,4 +1,5 @@
 /seed/.env
 /snowflake/.env
 flyway.conf
+token_github.txt
 
